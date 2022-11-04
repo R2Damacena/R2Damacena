@@ -2,7 +2,7 @@
 - 👀 I’m interested in web desing
 - 🌱 I’m currently learning html, css, js, c++, swift and other things
 - 💞️ I’m looking to collaborate on community
-- 📫 How to reach me on twitter
+- 📫 Reach me on twitter
 
 <!---
 R2Damacena/R2Damacena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
