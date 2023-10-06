@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R2Damacena
-- 👀 I’m interested in web desing
+- 👀 I’m interested in Front-end, React, Flutter, Java...
 - 🌱 I’m currently learning html, css, js, java, c++, swift and other things
 - 💞️ I’m looking to collaborate on community
 - 📫 Reach me on twitter
